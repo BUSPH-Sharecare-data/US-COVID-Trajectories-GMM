@@ -6,7 +6,7 @@ Programs (4):
 •	COVID_trajectory_analysis_for_Publish.R: generates manuscript tables and figures 
 •	SDOH_for_Publish.sas: generates SDOH overall and sub-index scores
 
-Datasets (3) (refer to “Data dictionary.xlsx” for content detail): 
+Datasets (3) (refer to “COVID-19 IR traj data dictionary.xlsx” for content detail): 
 •	dat.RData: used to generate the tables and figures
 •	sdoh_county_2020_covid_full.xlsx: used to generate the SDOH overall and sub-index scores
 •	County_stcofips_2018v3.xlsx: 2010 decentennial geographies
